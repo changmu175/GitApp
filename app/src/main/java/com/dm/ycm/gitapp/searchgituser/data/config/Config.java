@@ -7,6 +7,6 @@ package com.dm.ycm.gitapp.searchgituser.data.config;
 
 public class Config {
     public static final String SEARCH_FIELD = "+in:login";
-    public static final String ACCESS_TOKEN = 839f5b78e4ce153eab671f90f3d7d1085b9ba950;
+    public static final String ACCESS_TOKEN = "4f3e0297d0b93a5edb649d5899a046f7ecc31f2d";
     public static final String BASE_URL = "https://api.github.com/";
 }
